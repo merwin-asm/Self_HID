@@ -1,4 +1,5 @@
 # Self HID
+
 Tool To Emulate HID Device... [Can be called a hacking tool]
 
 ## STILL UNDER DEV
@@ -6,6 +7,7 @@ Tool To Emulate HID Device... [Can be called a hacking tool]
 ###########################################################################
 
 """
+
 SELF HID (V 1.0.0)
 
 Emulates HID device.
@@ -16,9 +18,11 @@ hacking...
 Currently only support for keyboard...
 
 Author : Merwin aka Cactochan
+
 """
 
 """
+
 How to make payload / execute file ? 
 
 Make sure to use \ before and after any key with more than one char
@@ -28,6 +32,7 @@ any chars not provided or for upper.
 """
 
 """
+
 How to make a H I D DEVICE for the operation of Program ?
 
 Find info on how to make your MCU act as a HID device.
