@@ -1,6 +1,9 @@
 # Self HID
 
+
 Tool To Emulate HID Device... [Can be called a hacking tool]
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=merwin-self-hid&label=Project%20views&color=0e75b6&style=flat" alt="darkmash-org" /> </p>
 
 ## STILL UNDER DEV
 
